@@ -1,21 +1,6 @@
 ---
-productName: product-pro1
+productName: repo1
 components:
   - name: component1
     assetType: service
-    github_repo: mulepsl/component1
-  - name: component2
-    assetType: ui
-    github_repo: mulepsl/component2
-  - name: component3
-    assetType: service
-    github_repo: mulepsl/component3
-  - name: component4
-    assetType: service
-    github_repo: mulepsl/component4
-  - name: component5
-    assetType: service
-    github_repo: mulepsl/component5
-  - name: component6
-    assetType: service
-    github_repo: mulepsl/component6
+    github_repo: mulepsl/repo2
