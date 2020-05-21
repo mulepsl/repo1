@@ -1,0 +1,3 @@
+repoName,read,triage,write,maintain,admin
+repo1,1-adminteam-1-readteam-1-writeteam-team1-team2,1-triageteam,1-adminteam-1-writeteam,maintainteam,1-adminteam
+repo2,team2-team3-triage_team,read-team,triage_team,,triage_team
