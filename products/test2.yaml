@@ -3,3 +3,4 @@ productName: repo2
 components:
   - name: repo1
     assetType: service
+    assetType: service
